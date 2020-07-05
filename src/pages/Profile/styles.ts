@@ -17,6 +17,9 @@ export const Title = styled.Text`
 export const BackButton = styled.TouchableOpacity`
   margin-top: 32px;
 `;
+export const PowerButton = styled.TouchableOpacity`
+  margin-top: 32px;
+`;
 
 export const UserAvatarButton = styled.TouchableOpacity``;
 export const UserAvatar = styled.Image`
